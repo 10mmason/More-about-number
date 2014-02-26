@@ -1,4 +1,4 @@
-X=6
+X = 6
 print(X)
-Y=float(X)
+Y = float(X)
 print(Y)
